@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
@@ -12,26 +15,26 @@ jobs:
       CI: false
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '21'
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '21'  # Specify your Node.js version
 
-    - name: Install dependencies
-      run: |
-        cd sirenscripts
-        npm install
+      - name: Install dependencies
+        run: |
+          cd sirenscripts  # Navigate to your React app directory
+          npm install
 
-    - name: Build React app
-      run: |
-        cd sirenscripts
-        npm run build  # Ensure build outputs to sirenscripts/build
+      - name: Build React app
+        run: |
+          cd sirenscripts  # Navigate to your React app directory
+          npm run build  # Ensure build outputs to sirenscripts/build
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: sirenscripts/build  # Path to your build directory
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: sirenscripts/build  # Path to your build directory
