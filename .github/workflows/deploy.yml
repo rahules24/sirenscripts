@@ -34,25 +34,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: sirenscripts/build  # Updated to the new build path
-
-  server:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '21'
-
-    - name: Install dependencies
-      run: |
-        cd sirenscripts
-        npm install
-
-    - name: Run server.mjs
-      run: |
-        cd sirenscripts
-        node server.mjs
+        publish_dir: sirenscripts/build  # Path to your build directory
