@@ -73,7 +73,7 @@ const Banner = () => {
                                 {text}
                             </span>
                         </h1>
-                        <p>I am passionate about building excellent software that improves lives.</p>
+                        <p>Que Mierda!.</p>
                         <button onClick={() => console.log('connect')}>
                             Let's connect<ArrowRightCircle size={25} />
                         </button>
