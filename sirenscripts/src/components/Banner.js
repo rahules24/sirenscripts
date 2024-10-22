@@ -63,12 +63,12 @@ const Banner = () => {
                         <TrackVisibility>
                         {({ isVisible }) => (
                             <div className={isVisible ? "animate__animated animate__bounce" : ""}>
-                                <span className="tagline">Welcome to my Portfolio</span>
+                                <span className="tagline">Siren's Crypts</span>
                             </div>
                             )}
                         </TrackVisibility>
                         <h1>
-                            {`Hi, I'm VortexSpace`}<br />
+                            {`Hi, I'm Scylla`}<br />
                             <span className={`wrap ${isFading ? 'animate__animated animate__fadeOut' : 'animate__animated animate__fadeIn'}`}>
                                 {text}
                             </span>
