@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sirenscripts/static/css/main.8fd2334b.css",
-    "main.js": "/sirenscripts/static/js/main.f24b0138.js",
+    "main.js": "/sirenscripts/static/js/main.b5d15be0.js",
     "static/js/453.5d6fa7b3.chunk.js": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js",
     "static/media/color-sharp.png": "/sirenscripts/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/sirenscripts/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -27,11 +27,11 @@
     "index.html": "/sirenscripts/index.html",
     "static/media/nav-icon2.svg": "/sirenscripts/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
     "main.8fd2334b.css.map": "/sirenscripts/static/css/main.8fd2334b.css.map",
-    "main.f24b0138.js.map": "/sirenscripts/static/js/main.f24b0138.js.map",
+    "main.b5d15be0.js.map": "/sirenscripts/static/js/main.b5d15be0.js.map",
     "453.5d6fa7b3.chunk.js.map": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fd2334b.css",
-    "static/js/main.f24b0138.js"
+    "static/js/main.b5d15be0.js"
   ]
 }
