@@ -18,7 +18,7 @@ const Contact = () => {
     const handleSubmit = async (e) => {
         e.preventDefault()
         setButtonText('Sending...')
-        let response = await fetch('http://localhost:5000/contact', {
+        let response = await fetch('http://localhost:5000/contact', {   //chnage to public url after hosting on server
             method: 'POST',
             body: JSON.stringify(formData),
             headers: {
@@ -38,10 +38,10 @@ const Contact = () => {
     <section className='contact' id='connect'>
         <Container>
             <Row>
-                <Col md={6}>
+                <Col md={6} className="d-flex justify-content-center align-items-center">
                     <TrackVisibility>
                         {({ isVisible }) => (
-                            <div className={isVisible ? "animate__animated animate__pulse" : ""}>
+                            <div className={isVisible ? "animate__animated animate__pulse" : ""} >
                                 <img src={contactImg} alt="Contact Us" />
                             </div>
                             )}

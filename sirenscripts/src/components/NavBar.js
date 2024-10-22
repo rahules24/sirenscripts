@@ -1,10 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
-
-import logo from '../assets/img/logo.svg';
-import navIcon1 from '../assets/img/nav-icon1.svg';
-import navIcon2 from '../assets/img/nav-icon2.svg';
-import navIcon3 from '../assets/img/nav-icon3.svg';
+import logo from '../assets/img/favlogo.png';
 
 function NavBar() {
 
@@ -29,7 +25,7 @@ function NavBar() {
     <Navbar expand="lg" className={scrolled ? "scrolled" : ""}>
       <Container>
         <Navbar.Brand href="#home">
-          <img src={logo} alt='Logo' />
+          <img src={logo} alt='Logo' style={{ width: '70%', height: 'auto' }}/>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav">
           <span className='navbar-toggler-icon'></span>
@@ -42,12 +38,14 @@ function NavBar() {
           </Nav>
           <span className='navbar-text'>
             <div className='social-icon'>
-              <a href="#"><img src={navIcon1} alt="" /></a>
-              <a href="#"><img src={navIcon2} alt="" /></a>
-              <a href="#"><img src={navIcon3} alt="" /></a>
+              <a href="https://www.linkedin.com/in/3139-rahul/" target="_blank"><i class="fa-brands fa-linkedin-in fa-xl"></i></a>
+              <a href="https://github.com/rahules24" target="_blank"><i class="fa-brands fa-github fa-xl"></i></a>
+              <a href="https://stackoverflow.com/users/24976649/r%c3%a1hul" target="_blank"><i class="fa-brands fa-stack-overflow fa-xl"></i></a>
             </div>
-            <button className='vvd' onClick={() => console.log('connect')}>
-             <span>Let's Connect</span>
+            <button className='vvd' onClick={() => { 
+              window.location.href = '#connect'; 
+            }}>
+              <span>Let's Connect</span>
             </button>
           </span>
         </Navbar.Collapse>

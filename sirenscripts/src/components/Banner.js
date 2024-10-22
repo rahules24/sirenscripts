@@ -63,7 +63,7 @@ const Banner = () => {
                         <TrackVisibility>
                         {({ isVisible }) => (
                             <div className={isVisible ? "animate__animated animate__bounce" : ""}>
-                                <span className="tagline">Siren's Crypts</span>
+                                <span className="tagline"><i>@ráhules24</i></span>
                             </div>
                             )}
                         </TrackVisibility>
@@ -73,8 +73,8 @@ const Banner = () => {
                                 {text}
                             </span>
                         </h1>
-                        <p>Que Mierda!.</p>
-                        <button onClick={() => console.log('connect')}>
+                        <em><p>In your red eyes I saw Sirens<br/>But I stopped and smelled the cold<br/></p></em>
+                        <button onClick={() => window.location.href = '#connect'}>
                             Let's connect<ArrowRightCircle size={25} />
                         </button>
                     </Col>

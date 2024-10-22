@@ -11,7 +11,7 @@ const router = express.Router();
 
 // CORS configuration
 app.use(cors({
-  origin: 'http://localhost:3000', // Specify your frontend origin
+  origin: 'https://rahules24.github.io/sirenscripts/', // Specify your frontend origin
 }));
 
 app.use(express.json());
