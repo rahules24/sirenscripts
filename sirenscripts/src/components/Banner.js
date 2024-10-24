@@ -63,12 +63,12 @@ const Banner = () => {
                         <TrackVisibility>
                         {({ isVisible }) => (
                             <div className={isVisible ? "animate__animated animate__bounce" : ""}>
-                                <span className="tagline"><i>@ráhules24</i></span>
+                                <span className="tagline">SirenScripts</span>
                             </div>
                             )}
                         </TrackVisibility>
                         <h1>
-                            {`Hi, I'm Scylla`}<br />
+                            {`Hi, I'm Ráhul`}<br />
                             <span className={`wrap ${isFading ? 'animate__animated animate__fadeOut' : 'animate__animated animate__fadeIn'}`}>
                                 {text}
                             </span>

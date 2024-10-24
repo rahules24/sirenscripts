@@ -1,9 +1,8 @@
 import { Container, Row, Col, Tab, Nav } from 'react-bootstrap';
 import ProjectCard from './ProjectCard';
-import colorSharp2 from '../assets/img/color-sharp2.png';
-import projImg1 from '../assets/img/project-img1.png';
-import projImg2 from '../assets/img/project-img2.png';
-import projImg3 from '../assets/img/project-img3.png';
+import projImg1 from '../assets/img/533958.jpg';
+import projImg2 from '../assets/img/Acer.jpg';
+import projImg3 from '../assets/img/Acer2.jpg';
 
 const Projects = () => {
 
@@ -69,7 +68,6 @@ const Projects = () => {
                 </Col>
             </Row>
         </Container>
-        <img className='background-image-right' src={colorSharp2}></img>
     </section>
   )
 }

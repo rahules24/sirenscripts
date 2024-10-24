@@ -1,5 +1,5 @@
 import { Container, Row, Col } from 'react-bootstrap'
-import logo from '../assets/img/favlogo.png'
+// import logo from '../assets/img/favlogo.png'
 
 const Footer = () => {
   return (
@@ -11,9 +11,10 @@ const Footer = () => {
                     </Col>
                     <Col sm={6} className='text-center text-sm-end'>
                         <div className='social-icon'>
-                            <a href="https://www.linkedin.com/in/3139-rahul/" target="_blank"><i class="fa-brands fa-linkedin-in fa-xl"></i></a>
-                            <a href="https://github.com/rahules24" target="_blank"><i class="fa-brands fa-github fa-xl"></i></a>
-                            <a href="https://stackoverflow.com/users/24976649/r%c3%a1hul" target="_blank"><i class="fa-brands fa-stack-overflow fa-xl"></i></a>
+                            <a href="https://www.linkedin.com/in/3139-rahul/" target="_blank"><i className="fa-brands fa-linkedin-in fa-xl"></i></a>
+                            <a href="https://github.com/rahules24" target="_blank"><i className="fa-brands fa-github fa-xl"></i></a>
+                            <a href="https://stackoverflow.com/users/24976649/r%c3%a1hul" target="_blank"><i className="fa-brands fa-stack-overflow fa-xl"></i></a>
+                            <a href="https://www.upwork.com/freelancers/~01587352546a63a36d?mp_source=share" target="_blank"><i className="fa-brands fa-upwork fa-xl"></i></a>
                             <p>© 2024 - All rights reserved</p>
                         </div>
                     </Col>
