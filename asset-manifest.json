@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/sirenscripts/static/css/main.915c4aa0.css",
-    "main.js": "/sirenscripts/static/js/main.008ed61d.js",
+    "main.css": "/sirenscripts/static/css/main.0c924e33.css",
+    "main.js": "/sirenscripts/static/js/main.57f87fef.js",
     "static/js/453.5d6fa7b3.chunk.js": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js",
+    "static/media/Acer.jpg": "/sirenscripts/static/media/Acer.a64934c1bc1a762e0f2e.jpg",
+    "static/media/Acer2.jpg": "/sirenscripts/static/media/Acer2.d04a75953b5ccf7414ac.jpg",
     "static/media/favlogo.png": "/sirenscripts/static/media/favlogo.094c2c24557b27dd3692.png",
+    "static/media/533958.jpg": "/sirenscripts/static/media/533958.da7db1f40d32d2512974.jpg",
     "static/media/color-sharp.png": "/sirenscripts/static/media/color-sharp.bea361cfef80fefc2d1e.png",
-    "static/media/color-sharp2.png": "/sirenscripts/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/sirenscripts/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/sirenscripts/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
     "static/media/CentraNo2-Bold.ttf": "/sirenscripts/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/sirenscripts/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/sirenscripts/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/project-img1.png": "/sirenscripts/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/footer-bg.png": "/sirenscripts/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img2.png": "/sirenscripts/static/media/project-img2.2e52097c417f9f1134b0.png",
-    "static/media/project-img3.png": "/sirenscripts/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/sirenscripts/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
     "static/media/revicons.eot": "/sirenscripts/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/sirenscripts/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -23,12 +22,12 @@
     "static/media/meter1.svg": "/sirenscripts/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
     "static/media/meter3.svg": "/sirenscripts/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
     "index.html": "/sirenscripts/index.html",
-    "main.915c4aa0.css.map": "/sirenscripts/static/css/main.915c4aa0.css.map",
-    "main.008ed61d.js.map": "/sirenscripts/static/js/main.008ed61d.js.map",
+    "main.0c924e33.css.map": "/sirenscripts/static/css/main.0c924e33.css.map",
+    "main.57f87fef.js.map": "/sirenscripts/static/js/main.57f87fef.js.map",
     "453.5d6fa7b3.chunk.js.map": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.915c4aa0.css",
-    "static/js/main.008ed61d.js"
+    "static/css/main.0c924e33.css",
+    "static/js/main.57f87fef.js"
   ]
 }
