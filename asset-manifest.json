@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/sirenscripts/static/css/main.0c924e33.css",
-    "main.js": "/sirenscripts/static/js/main.57f87fef.js",
-    "static/js/453.5d6fa7b3.chunk.js": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js",
-    "static/media/Acer.jpg": "/sirenscripts/static/media/Acer.a64934c1bc1a762e0f2e.jpg",
+    "main.css": "/sirenscripts/static/css/main.818cd300.css",
+    "main.js": "/sirenscripts/static/js/main.378992ab.js",
+    "static/js/453.46040b96.chunk.js": "/sirenscripts/static/js/453.46040b96.chunk.js",
     "static/media/Acer2.jpg": "/sirenscripts/static/media/Acer2.d04a75953b5ccf7414ac.jpg",
     "static/media/favlogo.png": "/sirenscripts/static/media/favlogo.094c2c24557b27dd3692.png",
-    "static/media/533958.jpg": "/sirenscripts/static/media/533958.da7db1f40d32d2512974.jpg",
+    "static/media/aop_2.png": "/sirenscripts/static/media/aop_2.17a0d7d3ac7e16aac371.png",
     "static/media/color-sharp.png": "/sirenscripts/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/banner-bg.png": "/sirenscripts/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/sirenscripts/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
@@ -14,6 +13,7 @@
     "static/media/CentraNo2-Medium.ttf": "/sirenscripts/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/sirenscripts/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/sirenscripts/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/text.png": "/sirenscripts/static/media/text.ce678ad4b1be579336e4.png",
     "static/media/contact-img.svg": "/sirenscripts/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
     "static/media/revicons.eot": "/sirenscripts/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/sirenscripts/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -22,12 +22,12 @@
     "static/media/meter1.svg": "/sirenscripts/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
     "static/media/meter3.svg": "/sirenscripts/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
     "index.html": "/sirenscripts/index.html",
-    "main.0c924e33.css.map": "/sirenscripts/static/css/main.0c924e33.css.map",
-    "main.57f87fef.js.map": "/sirenscripts/static/js/main.57f87fef.js.map",
-    "453.5d6fa7b3.chunk.js.map": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js.map"
+    "main.818cd300.css.map": "/sirenscripts/static/css/main.818cd300.css.map",
+    "main.378992ab.js.map": "/sirenscripts/static/js/main.378992ab.js.map",
+    "453.46040b96.chunk.js.map": "/sirenscripts/static/js/453.46040b96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c924e33.css",
-    "static/js/main.57f87fef.js"
+    "static/css/main.818cd300.css",
+    "static/js/main.378992ab.js"
   ]
 }
