@@ -38,9 +38,9 @@ const Skills = () => {
                             <h2>
                                 Skills
                             </h2>
-                            <p>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi explicabo consectetur, iste dolorum error quam commodi adipisci maiores laborum quaerat tempora, unde officiis asperiores autem aut provident corrupti earum voluptatum incidunt! Repellat perspiciatis beatae officia laudantium deserunt consequatur porro placeat delectus quos, doloribus commodi expedita est perferendis laborum ut rerum.
-                            </p>
+                            <p><i>
+                            Skills like constellations illuminate the night sky of potential. Python flows effortlessly, guided by Django and FastAPI, while React dances in harmony with Tailwind’s design. C++ stands strong, a sturdy foundation beneath the swirling data of MongoDB and MySQL. R, SPARQL, and RDF unravel complex truths, as DSA sharpens logic's edge. Docker encapsulates innovation, while Matplotlib, JointJS, and NumPy craft visuals and connections. Blazegraph unlocks insights, each skill a brushstroke on the canvas of creation, ready to bring ideas to life.
+                            </i></p>
                             <Carousel responsive={responsive} infinite={true} className='skill-slider'>
                                 <div className='item'>
                                     <img src={meter1} alt="Image" />
@@ -56,7 +56,7 @@ const Skills = () => {
                                 </div>
                                 <div className='item'>
                                     <img src={meter2} alt="Image" />
-                                    <h5>Python Programmer</h5>
+                                    <h5>Python Programming</h5>
                                 </div>
                             </Carousel>
                         </div>

@@ -11,7 +11,7 @@ const Banner = () => {
     const [text, setText] = useState('');
     const [delta, setDelta] = useState(200);
     const [isFading, setIsFading] = useState(false); // New state for fading animation
-    const toRotate = ["Web Developer", "Web Designer", "UI/UX Designer"];
+    const toRotate = ["Software Engineer", "FullStack Developer", "DevOps Engineer", "AGI Enthusiast"];
     const period = 1500; // Time to wait at full text
     const animationDuration = 500; // Duration for fade-in/out animation
 

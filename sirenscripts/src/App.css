@@ -334,6 +334,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     letter-spacing: 0.8px;
     line-height: 1.5em;
     margin: 14px 0 75px 0;
+    text-align: center;
 }
 .skill-slider {
   width: 80%;
@@ -370,7 +371,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   line-height: 1.5em;
   margin: 14px auto 30px auto;
   text-align: center;
-  width: 56%;
+  width: 82%;
+}
+.project a {
+  color: #000;
+}
+.project a:hover {
+  color: #fff;
 }
 .project .nav.nav-pills {
   width: 72%;
