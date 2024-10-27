@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sirenscripts/static/css/main.818cd300.css",
-    "main.js": "/sirenscripts/static/js/main.378992ab.js",
+    "main.css": "/sirenscripts/static/css/main.588007a9.css",
+    "main.js": "/sirenscripts/static/js/main.126d6be5.js",
     "static/js/453.46040b96.chunk.js": "/sirenscripts/static/js/453.46040b96.chunk.js",
     "static/media/Acer2.jpg": "/sirenscripts/static/media/Acer2.d04a75953b5ccf7414ac.jpg",
     "static/media/favlogo.png": "/sirenscripts/static/media/favlogo.094c2c24557b27dd3692.png",
@@ -22,12 +22,12 @@
     "static/media/meter1.svg": "/sirenscripts/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
     "static/media/meter3.svg": "/sirenscripts/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
     "index.html": "/sirenscripts/index.html",
-    "main.818cd300.css.map": "/sirenscripts/static/css/main.818cd300.css.map",
-    "main.378992ab.js.map": "/sirenscripts/static/js/main.378992ab.js.map",
+    "main.588007a9.css.map": "/sirenscripts/static/css/main.588007a9.css.map",
+    "main.126d6be5.js.map": "/sirenscripts/static/js/main.126d6be5.js.map",
     "453.46040b96.chunk.js.map": "/sirenscripts/static/js/453.46040b96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.818cd300.css",
-    "static/js/main.378992ab.js"
+    "static/css/main.588007a9.css",
+    "static/js/main.126d6be5.js"
   ]
 }
