@@ -1,7 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from 'react-bootstrap';
 import ProjectCard from './ProjectCard';
 import projImg1 from '../assets/img/aop_2.png';
-import projImg2 from '../assets/img/text.png';
+import projImg2 from '../assets/img/JSproj2.png';
 import projImg3 from '../assets/img/Acer2.jpg';
 
 const Projects = () => {
@@ -14,10 +14,10 @@ const Projects = () => {
             link: 'https://dev.aopsketchpad.insilicohub.org/'
         },
         {
-            title: 'TextUtils',
+            title: 'RextUtils',
             description: 'Made exclusively in React, with react-bootsrap!',
             imgUrl: projImg2,
-            // link: '#'
+            link: 'https://rahules24.github.io/rextutils'
         },
         {
             title: 'Coming Soon',
@@ -128,7 +128,6 @@ const Projects = () => {
                                                 key={index}
                                                 {...project}
                                                 />
-                                                
                                             )
                                         })
                                     }
