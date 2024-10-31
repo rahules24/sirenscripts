@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/sirenscripts/static/css/main.c6bd9670.css",
-    "main.js": "/sirenscripts/static/js/main.296be40b.js",
+    "main.js": "/sirenscripts/static/js/main.8fc16099.js",
     "static/js/453.5d6fa7b3.chunk.js": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js",
     "static/media/Acer2.jpg": "/sirenscripts/static/media/Acer2.d04a75953b5ccf7414ac.jpg",
     "static/media/favlogo.png": "/sirenscripts/static/media/favlogo.094c2c24557b27dd3692.png",
     "static/media/aop.jpeg": "/sirenscripts/static/media/aop.c64673417f4fc853301c.jpeg",
+    "static/media/dextutils.jpeg": "/sirenscripts/static/media/dextutils.36fc31f6601a1fe035c0.jpeg",
     "static/media/rextutils.jpeg": "/sirenscripts/static/media/rextutils.013a4ce69c2dcbee16d0.jpeg",
     "static/media/color-sharp.png": "/sirenscripts/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/banner-bg.png": "/sirenscripts/static/media/banner-bg.cc1273af450504afe755.png",
@@ -23,11 +24,11 @@
     "static/media/meter3.svg": "/sirenscripts/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
     "index.html": "/sirenscripts/index.html",
     "main.c6bd9670.css.map": "/sirenscripts/static/css/main.c6bd9670.css.map",
-    "main.296be40b.js.map": "/sirenscripts/static/js/main.296be40b.js.map",
+    "main.8fc16099.js.map": "/sirenscripts/static/js/main.8fc16099.js.map",
     "453.5d6fa7b3.chunk.js.map": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bd9670.css",
-    "static/js/main.296be40b.js"
+    "static/js/main.8fc16099.js"
   ]
 }
