@@ -1,7 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from 'react-bootstrap';
 import ProjectCard from './ProjectCard';
-import projImg1 from '../assets/img/aop_2.png';
-import projImg2 from '../assets/img/JSproj2.png';
+import aop from '../assets/img/aop.jpeg';
+import rextutils from '../assets/img/rextutils.jpeg';
 import projImg3 from '../assets/img/Acer2.jpg';
 
 const Projects = () => {
@@ -10,13 +10,13 @@ const Projects = () => {
         {
             title: 'AOP-Sketchpad',
             description: 'A proof-of-concept tool for publishing Adverse Outcome Pathways using FAIR guidelines.',
-            imgUrl: projImg1,
+            imgUrl: aop,
             link: 'https://dev.aopsketchpad.insilicohub.org/'
         },
         {
             title: 'RextUtils',
             description: 'Made exclusively in React, with react-bootsrap!',
-            imgUrl: projImg2,
+            imgUrl: rextutils,
             link: 'https://rahules24.github.io/rextutils'
         },
         {
