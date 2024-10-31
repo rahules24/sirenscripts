@@ -2,6 +2,7 @@ import { Container, Row, Col, Tab, Nav } from 'react-bootstrap';
 import ProjectCard from './ProjectCard';
 import aop from '../assets/img/aop.jpeg';
 import rextutils from '../assets/img/rextutils.jpeg';
+import dextutils from '../assets/img/dextutils.jpeg';
 import projImg3 from '../assets/img/Acer2.jpg';
 
 const Projects = () => {
@@ -28,10 +29,10 @@ const Projects = () => {
     ]
     const pyprojects = [
         {
-            title: 'Coming Soon',
-            description: 'Like the whisper of wind, something stirs on the horizon—coming soon, a force yet unseen!',
-            imgUrl: projImg3,
-            // link: '#'
+            title: 'DextUtils',
+            description: 'Made exclusively in Django xd',
+            imgUrl: dextutils,
+            link: 'https://rahules24.github.io/dextutils'
         },
         {
             title: 'Coming Soon',
