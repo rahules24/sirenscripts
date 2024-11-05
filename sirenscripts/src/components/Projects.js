@@ -32,7 +32,7 @@ const Projects = () => {
             title: 'DextUtils',
             description: 'Made exclusively in Django xd',
             imgUrl: dextutils,
-            link: 'https://rahules24.github.io/dextutils'
+            link: 'https://dextutils.onrender.com/'
         },
         {
             title: 'Coming Soon',
