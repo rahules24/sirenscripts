@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sirenscripts/static/css/main.c6bd9670.css",
-    "main.js": "/sirenscripts/static/js/main.8fc16099.js",
+    "main.js": "/sirenscripts/static/js/main.45d683bc.js",
     "static/js/453.5d6fa7b3.chunk.js": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js",
     "static/media/Acer2.jpg": "/sirenscripts/static/media/Acer2.d04a75953b5ccf7414ac.jpg",
     "static/media/favlogo.png": "/sirenscripts/static/media/favlogo.094c2c24557b27dd3692.png",
@@ -24,11 +24,11 @@
     "static/media/meter3.svg": "/sirenscripts/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
     "index.html": "/sirenscripts/index.html",
     "main.c6bd9670.css.map": "/sirenscripts/static/css/main.c6bd9670.css.map",
-    "main.8fc16099.js.map": "/sirenscripts/static/js/main.8fc16099.js.map",
+    "main.45d683bc.js.map": "/sirenscripts/static/js/main.45d683bc.js.map",
     "453.5d6fa7b3.chunk.js.map": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bd9670.css",
-    "static/js/main.8fc16099.js"
+    "static/js/main.45d683bc.js"
   ]
 }
