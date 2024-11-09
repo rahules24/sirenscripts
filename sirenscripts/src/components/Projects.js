@@ -4,7 +4,7 @@ import aop from '../assets/img/aop.jpeg';
 import rextutils from '../assets/img/rextutils.jpeg';
 import dextutils from '../assets/img/dextutils.jpeg';
 import projImg3 from '../assets/img/Acer2.jpg';
-
+import game from '../assets/img/gamecolor.jpg';
 const Projects = () => {
 
     const jsprojects = [
@@ -51,19 +51,19 @@ const Projects = () => {
         {
             title: 'Coming Soon',
             description: 'Like the whisper of wind, something stirs on the horizon—coming soon, a force yet unseen!',
-            imgUrl: projImg3,
+            imgUrl: game,
             // link: '#'
         },
         {
             title: 'Coming Soon',
             description: 'Like the whisper of wind, something stirs on the horizon—coming soon, a force yet unseen!',
-            imgUrl: projImg3,
+            imgUrl: game,
             // link: '#'
         },
         {
             title: 'Coming Soon',
             description: 'Like the whisper of wind, something stirs on the horizon—coming soon, a force yet unseen!',
-            imgUrl: projImg3,
+            imgUrl: game,
             // link: '#'
         },
     ]
