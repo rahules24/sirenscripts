@@ -80,13 +80,13 @@ const Projects = () => {
                     <Tab.Container id="projects-tabs" defaultActiveKey="first">
                         <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id='pills-tab'>
                             <Nav.Item>
-                                <Nav.Link eventKey="first">JavaScript</Nav.Link>
+                                <Nav.Link eventKey="first">WebDev</Nav.Link>
                             </Nav.Item>
                             <Nav.Item>
                                 <Nav.Link eventKey="second">Python</Nav.Link>
                             </Nav.Item>
                             <Nav.Item>
-                                <Nav.Link eventKey="third">Arts</Nav.Link>
+                                <Nav.Link eventKey="third">GameDev</Nav.Link>
                             </Nav.Item>
                         </Nav>
                         <Tab.Content>
