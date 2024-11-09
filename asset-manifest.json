@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sirenscripts/static/css/main.c6bd9670.css",
-    "main.js": "/sirenscripts/static/js/main.2df09085.js",
+    "main.js": "/sirenscripts/static/js/main.3957e8f1.js",
     "static/js/453.5d6fa7b3.chunk.js": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js",
     "static/media/Acer2.jpg": "/sirenscripts/static/media/Acer2.d04a75953b5ccf7414ac.jpg",
     "static/media/favlogo.png": "/sirenscripts/static/media/favlogo.094c2c24557b27dd3692.png",
@@ -9,6 +9,7 @@
     "static/media/dextutils.jpeg": "/sirenscripts/static/media/dextutils.36fc31f6601a1fe035c0.jpeg",
     "static/media/rextutils.jpeg": "/sirenscripts/static/media/rextutils.013a4ce69c2dcbee16d0.jpeg",
     "static/media/color-sharp.png": "/sirenscripts/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/gamecolor.jpg": "/sirenscripts/static/media/gamecolor.cf2d3661d7108c2f353e.jpg",
     "static/media/banner-bg.png": "/sirenscripts/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/sirenscripts/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
     "static/media/CentraNo2-Bold.ttf": "/sirenscripts/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -24,11 +25,11 @@
     "static/media/meter3.svg": "/sirenscripts/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
     "index.html": "/sirenscripts/index.html",
     "main.c6bd9670.css.map": "/sirenscripts/static/css/main.c6bd9670.css.map",
-    "main.2df09085.js.map": "/sirenscripts/static/js/main.2df09085.js.map",
+    "main.3957e8f1.js.map": "/sirenscripts/static/js/main.3957e8f1.js.map",
     "453.5d6fa7b3.chunk.js.map": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bd9670.css",
-    "static/js/main.2df09085.js"
+    "static/js/main.3957e8f1.js"
   ]
 }
