@@ -20,6 +20,21 @@ const Contact = () => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
+
+        if (!formData.name || !formData.email || !formData.subject || !formData.message) {
+            toast.error("All fields are required!", {
+                position: "bottom-center",
+                autoClose: 1000,
+                hideProgressBar: true,
+                closeOnClick: false,
+                pauseOnHover: false,
+                draggable: false,
+                theme: "light",
+                transition: Bounce,
+            });
+            return;
+        }
+
         setButtonText('Sending...');
 
         let response = await fetch('https://crypts.vercel.app/api/contact', {
@@ -79,16 +94,16 @@ const Contact = () => {
                         <form onSubmit={handleSubmit}>
                             <Row>
                                 <Col sm={6} md={6} className='px-1'>
-                                    <input type="text" placeholder='Name' value={formData.name} onChange={(e) => setFormData({ ...formData, name: e.target.value })} />
+                                    <input type="text" placeholder='Name*' value={formData.name} onChange={(e) => setFormData({ ...formData, name: e.target.value })} />
                                 </Col>
                                 <Col sm={6} md={6} className='px-1'>
-                                    <input type="email" placeholder='name@mail.com' value={formData.email} onChange={(e) => setFormData({ ...formData, email: e.target.value })} />
+                                    <input type="email" placeholder='name@mail.com*' value={formData.email} onChange={(e) => setFormData({ ...formData, email: e.target.value })} />
                                 </Col>
                                 <Col sm={12} md={12}>
-                                    <input type="subject" placeholder='Subject' value={formData.subject} onChange={(e) => setFormData({ ...formData, subject: e.target.value })} />
+                                    <input type="subject" placeholder='Subject*' value={formData.subject} onChange={(e) => setFormData({ ...formData, subject: e.target.value })} />
                                 </Col>
                                 <Col sm={12} md={12}>
-                                    <textarea rows="7" placeholder="What's on your mind?" value={formData.message} onChange={(e) => setFormData({ ...formData, message: e.target.value })}></textarea>
+                                    <textarea rows="7" placeholder="What's on your mind?*" value={formData.message} onChange={(e) => setFormData({ ...formData, message: e.target.value })}></textarea>
                                     <button type="submit"><span>{buttonText}</span></button>
                                 </Col>
                             </Row>

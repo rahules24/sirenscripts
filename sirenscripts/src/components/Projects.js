@@ -5,6 +5,7 @@ import rextutils from '../assets/img/rextutils.jpeg';
 import dextutils from '../assets/img/dextutils.jpeg';
 import projImg3 from '../assets/img/Acer2.jpg';
 import game from '../assets/img/gamecolor.jpg';
+import takemichi from '../assets/img/takemichi.jpeg';
 const Projects = () => {
 
     const jsprojects = [
@@ -35,10 +36,10 @@ const Projects = () => {
             link: 'https://dextutils.onrender.com/'
         },
         {
-            title: 'Coming Soon',
-            description: 'Like the whisper of wind, something stirs on the horizon—coming soon, a force yet unseen!',
-            imgUrl: projImg3,
-            // link: '#'
+            title: 'Takemichi',
+            description: '20 Vector graphics made in Turtle and hosted on trinket.io',
+            imgUrl: takemichi,
+            link: 'https://rahules24.github.io/takemichi/'
         },
         {
             title: 'Coming Soon',
