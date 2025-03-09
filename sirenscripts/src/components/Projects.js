@@ -6,6 +6,7 @@ import dextutils from '../assets/img/dextutils.jpeg';
 import projImg3 from '../assets/img/Acer2.jpg';
 import game from '../assets/img/gamecolor.jpg';
 import takemichi from '../assets/img/takemichi.jpeg';
+import sirens from '../assets/img/sirens.jpeg';
 const Projects = () => {
 
     const jsprojects = [
@@ -50,10 +51,10 @@ const Projects = () => {
     ]
     const litprojects = [
         {
-            title: 'Coming Soon',
-            description: 'Like the whisper of wind, something stirs on the horizon—coming soon, a force yet unseen!',
-            imgUrl: game,
-            // link: '#'
+            title: 'SirenScripts',
+            description: 'Click to download the terminal app xp',
+            imgUrl: sirens,
+            link: '/'
         },
         {
             title: 'Coming Soon',
