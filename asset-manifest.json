@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/sirenscripts/static/css/main.c6bd9670.css",
-    "main.js": "/sirenscripts/static/js/main.9b94a653.js",
+    "main.js": "/sirenscripts/static/js/main.d89c4009.js",
     "static/js/453.5d6fa7b3.chunk.js": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js",
     "static/media/Acer2.jpg": "/sirenscripts/static/media/Acer2.d04a75953b5ccf7414ac.jpg",
     "static/media/favlogo.png": "/sirenscripts/static/media/favlogo.094c2c24557b27dd3692.png",
+    "static/media/sirens.jpeg": "/sirenscripts/static/media/sirens.d9ddd34064f05efaecf5.jpeg",
     "static/media/takemichi.jpeg": "/sirenscripts/static/media/takemichi.94049c9fc5a11c034275.jpeg",
     "static/media/aop.jpeg": "/sirenscripts/static/media/aop.c64673417f4fc853301c.jpeg",
     "static/media/dextutils.jpeg": "/sirenscripts/static/media/dextutils.36fc31f6601a1fe035c0.jpeg",
@@ -26,11 +27,11 @@
     "static/media/meter3.svg": "/sirenscripts/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
     "index.html": "/sirenscripts/index.html",
     "main.c6bd9670.css.map": "/sirenscripts/static/css/main.c6bd9670.css.map",
-    "main.9b94a653.js.map": "/sirenscripts/static/js/main.9b94a653.js.map",
+    "main.d89c4009.js.map": "/sirenscripts/static/js/main.d89c4009.js.map",
     "453.5d6fa7b3.chunk.js.map": "/sirenscripts/static/js/453.5d6fa7b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bd9670.css",
-    "static/js/main.9b94a653.js"
+    "static/js/main.d89c4009.js"
   ]
 }
