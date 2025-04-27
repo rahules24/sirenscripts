@@ -1,6 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from 'react-bootstrap';
 import ProjectCard from './ProjectCard';
-import aop from '../assets/img/aop.jpeg';
+// import echo from '../assets/img/echox2.jpg';
+import echo from '../assets/img/echo.png';
 import rextutils from '../assets/img/rextutils.jpeg';
 import dextutils from '../assets/img/dextutils.jpeg';
 import projImg3 from '../assets/img/Acer2.jpg';
@@ -11,10 +12,10 @@ const Projects = () => {
 
     const jsprojects = [
         {
-            title: 'AOP-Sketchpad',
-            description: 'A proof-of-concept tool for publishing Adverse Outcome Pathways using FAIR guidelines.',
-            imgUrl: aop,
-            link: 'https://dev.aopsketchpad.insilicohub.org/'
+            title: 'echoSketch',
+            description: 'An indie drawing app to let your creativity run wild <33',
+            imgUrl: echo,
+            link: 'https://rahules24.github.io/echosketch/'
         },
         {
             title: 'RextUtils',
