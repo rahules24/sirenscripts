@@ -8,6 +8,7 @@ import projImg3 from '../assets/img/Acer2.jpg';
 import game from '../assets/img/gamecolor.jpg';
 import takemichi from '../assets/img/takemichi.jpeg';
 import sirens from '../assets/img/sirens.jpeg';
+import bandbox from '../assets/img/bandbox.jpg'
 const Projects = () => {
 
     const jsprojects = [
@@ -24,10 +25,10 @@ const Projects = () => {
             link: 'https://rahules24.github.io/rextutils'
         },
         {
-            title: 'Coming Soon',
-            description: 'Like the whisper of wind, something stirs on the horizon—coming soon, a force yet unseen!',
-            imgUrl: projImg3,
-            // link: '#'
+            title: 'Band Box Drycleaners',
+            description: 'Full-stack app powered by Django REST Framework (Fly.io) with a sleek React + TypeScript frontend live on GitHub Pages. ',
+            imgUrl: bandbox,
+            link: 'https://rahules24.github.io/bandboxdrycleaners/'
         },
     ]
     const pyprojects = [

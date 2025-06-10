@@ -38,7 +38,7 @@ function NavBar() {
           </Nav>
           <span className='navbar-text'>
             <div className='social-icon'>
-              <a href="https://www.linkedin.com/in/3139-rahul/" target="_blank"><i className="fa-brands fa-linkedin-in fa-xl"></i></a>
+              <a href="https://www.linkedin.com/in/rahules24/" target="_blank"><i className="fa-brands fa-linkedin-in fa-xl"></i></a>
               <a href="https://github.com/rahules24" target="_blank"><i className="fa-brands fa-github fa-xl"></i></a>
               <a href="https://stackoverflow.com/users/24976649/r%c3%a1hul" target="_blank"><i className="fa-brands fa-stack-overflow fa-xl"></i></a>
               <a href="https://www.upwork.com/freelancers/~01587352546a63a36d?mp_source=share" target="_blank"><i className="fa-brands fa-upwork fa-xl"></i></a>
