@@ -8,7 +8,7 @@ import projImg3 from '../assets/img/Acer2.jpg';
 import game from '../assets/img/gamecolor.jpg';
 import takemichi from '../assets/img/takemichi.jpeg';
 import sirens from '../assets/img/sirens.jpeg';
-import bandbox from '../assets/img/bandbox.jpg'
+import bandbox from '../assets/img/bandbox.png'
 const Projects = () => {
 
     const jsprojects = [
